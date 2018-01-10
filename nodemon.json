@@ -1,5 +1,6 @@
 {
     "env": {
-        "MONGO_ATLAS_PWD": "node-shop"
+        "MONGO_ATLAS_PWD": "node-shop",
+        "JWT_KEY": "secret"
     }
 }
